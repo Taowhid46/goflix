@@ -1,0 +1,32 @@
+.men-pro-item {
+    margin-bottom: 20px;
+}
+
+.error-text{
+	color: #bc0c0ceb;
+    font-size: 14px;
+}
+
+.customAlert{
+	color: #ffffff;
+    background-color: #81d1ac;
+    border-color: #d6e9c6;
+    border: 1px solid transparent;
+    font-size: 12px;
+    padding: 3px;
+    letter-spacing: 2px;
+    word-spacing: 6px;
+}
+
+.loginSuccess,.registerSuccess{
+	display: none;
+	background: #4c8558;
+    float: right;
+    width: 100%;
+    margin-bottom: 5px;
+    padding: 5px 0px;
+    text-align: center;
+    color: #f2f2f2;
+    font-size: 14px;
+    font-weight: 100;
+}
